@@ -11,3 +11,4 @@ a=a-b;
 printf("\nNew Values: \n a= %d & b= %d",a,b);
 }
 
+//Swapping Values without using third variable
